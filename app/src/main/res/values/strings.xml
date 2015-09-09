@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Instagram Likes - Meezoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Instagram Likes - Meezoo</string>
+    <string name="title_activity_auth_web_view">AuthWebView</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
